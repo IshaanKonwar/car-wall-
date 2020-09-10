@@ -1,0 +1,16 @@
+var car,wall;
+var speed,weight;
+funtion setup(){
+speed random(55,90)
+weight random(400,1500)
+}
+funtion draw(){
+car cretesprite(50,200,50,50)
+car.velocity = speed
+wall cretesprite(1500,200,60,height/2)
+
+
+
+
+
+}
